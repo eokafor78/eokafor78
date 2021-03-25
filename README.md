@@ -52,18 +52,17 @@ Redux app that allows users to create a list of tasks or objectives to be comple
 </p>
 
 
-
 <br/> 
 <p>
 
 
 <a align= "center" href="https://github.com/eokafor78">
-<img alt= "Emeka Okafor's card" height="270px" width="400"  src="https://github-readme-stats.vercel.app/api?username=eokafor78&show_icons=true&hide_border=true" />
+<img alt= "Emeka Okafor's card" height="270px" width="400"  src="https://github-readme-stats.vercel.app/api?username=eokafor78&theme=dark&show_icons=true&hide_border=true" />
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+
 
 </p>
 <br/>
-
 
 <!--
 
