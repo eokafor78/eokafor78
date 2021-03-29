@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Redux and Springboot
 - 👯 I’m always looking to collaborate with: Developers in my field
 - 🌍 I support: African Americans in Tech
-- ⚡ Fun fact: I have visit Nigeria 2 times for more than 2 months. 🖖
+- ⚡ Fun fact: I have visit Nigeria 2 times for more than 2 months. 
 
 <br/>
 
